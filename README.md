@@ -1,4 +1,4 @@
-# 🔥 Reqly v0.9.0-beta
+# 🔥 Reqly v0.10.0-beta
 
 A lightning-fast free REST API debugging tool! ⚡
 
