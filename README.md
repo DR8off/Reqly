@@ -33,7 +33,7 @@ Built with ❤️ by [DR8](https://github.com/DR8off)
 
 ---
 
-> ⚠ **Note**: This is beta software (v0.9.0).  
+> ⚠ **Note**: This is beta software!
 > Most features work well, but some bugs may occur.  
 > Stable release coming soon!
 > In the future, the application may become open source!
