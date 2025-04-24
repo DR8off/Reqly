@@ -1,4 +1,5 @@
-# 🔥 Reqly v0.10.0-beta
+# 🔥 Reqly v0.10.1-beta
+[Live playground](https://dr8off.github.io/Reqly/)
 
 A lightning-fast free REST API debugging tool! ⚡
 
